@@ -1,11 +1,8 @@
- 
+ ## Quick Demo
 
+> Play Adventure Of Love at [https://makecode.com/_g2Jf6q8qpAho/](https://makecode.com/_g2Jf6q8qpAho)
 
 > Open this page at [https://jasminevan.github.io/adventureoflove/](https://jasminevan.github.io/adventureoflove/)
-
-##Quick Demo
-
-[https://makecode.com/_g2Jf6q8qpAho/](https://makecode.com/_g2Jf6q8qpAho)
 
 ## Use as Extension
 
