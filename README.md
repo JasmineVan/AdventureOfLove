@@ -3,6 +3,10 @@
 
 > Open this page at [https://jasminevan.github.io/adventureoflove/](https://jasminevan.github.io/adventureoflove/)
 
+##Quick Demo
+
+[https://makecode.com/_g2Jf6q8qpAho/](https://makecode.com/_g2Jf6q8qpAho)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
